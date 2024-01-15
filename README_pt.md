@@ -58,13 +58,13 @@ No vídeo, você verá o funcionamento do gerador de QR Code, como inserir conte
 
 #### Tela Inicial
 
-![Tela Inicial](screenshots/tela_inicial.png)
+![Tela Inicial](inicio.png)
 
 A tela inicial permite que você insira o conteúdo desejado para o QR Code e o gere com facilidade.
 
 #### Guia de Exemplos
 
-![Guia de Exemplos](screenshots/guia_exemplos.png)
+![Guia de Exemplos](guia.png)
 
 No guia, você encontrará exemplos de diferentes tipos de conteúdo que podem ser utilizados para gerar QR Codes.
 
