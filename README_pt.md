@@ -54,6 +54,20 @@ Assista a um vídeo demonstrativo do programa no YouTube:
 
 No vídeo, você verá o funcionamento do gerador de QR Code, como inserir conteúdo, gerar QR Codes e salvar os resultados.
 
+### Capturas de Tela
+
+#### Tela Inicial
+
+![Tela Inicial](screenshots/tela_inicial.png)
+
+A tela inicial permite que você insira o conteúdo desejado para o QR Code e o gere com facilidade.
+
+#### Guia de Exemplos
+
+![Guia de Exemplos](screenshots/guia_exemplos.png)
+
+No guia, você encontrará exemplos de diferentes tipos de conteúdo que podem ser utilizados para gerar QR Codes.
+
 ### Autor
 
 - [Kensdy](https://github.com/kensdy)
@@ -61,7 +75,3 @@ No vídeo, você verá o funcionamento do gerador de QR Code, como inserir conte
 ### Licença
 
 Este projeto é distribuído sob a [Licença MIT](LICENSE).
-
----
-
-**Observação:** Certifique-se de substituir o link do autor e a imagem de exemplo com informações reais e apropriadas para o seu projeto. Além disso, inclua uma seção de "Licença" e um arquivo `LICENSE` correspondente se você optar por usar uma licença específica.
