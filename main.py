@@ -82,7 +82,7 @@ class QRCodeGeneratorApp:
 
         # Add an image, name, and link
         image_url = "img.png"  # Replace with the actual path of your image
-        self.add_information(image_url, "Program Created by Kensdy", "Check the project repository here https://github.com/kensdy/QRcode")
+        self.add_information(image_url, "Program Created by Kensdy", "Check the project repository here https://github.com/kensdy/QR-Code-Generator")
 
     def add_information(self, image_url, name, text):
         image = Image.open(image_url)
@@ -99,7 +99,7 @@ class QRCodeGeneratorApp:
         # Text label with clickable link
         text_label = tk.Label(self.info_page, text=text, wraplength=400, justify="left", foreground="blue", cursor="hand2", font=('Helvetica', 10))
         text_label.pack(pady=10)
-        text_label.bind("<Button-1>", lambda e: webbrowser.open("https://github.com/kensdy/QRcode"))
+        text_label.bind("<Button-1>", lambda e: webbrowser.open("https://github.com/kensdy/QR-Code-Generator"))
 
     def create_qr_code(self):
         link = self.link_var.get()
