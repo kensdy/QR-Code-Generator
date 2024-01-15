@@ -1,5 +1,7 @@
 # QR-Code-Generator
 
+[English](README.md) | Português
+
 Este é um simples gerador de QR Code com interface gráfica, desenvolvido em Python utilizando a biblioteca Tkinter. Ele permite que você crie facilmente códigos QR para diferentes finalidades, como links, textos simples, informações de Wi-Fi, coordenadas GPS e muito mais.
 
 [![Repository Views](https://komarev.com/ghpvc/?username=kensdyqr&label=Views&color=brightgreen)]([https://github.com/kensdy/OSINT-Steam](https://github.com/kensdy/QR-Code-Generator))
