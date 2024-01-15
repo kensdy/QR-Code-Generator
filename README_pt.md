@@ -29,7 +29,7 @@ Este é um simples gerador de QR Code com interface gráfica, desenvolvido em Py
 4. Execute o script principal:
 
     ```bash
-    python main.py
+    python main_pt.py
     ```
 
 ## Como Usar
