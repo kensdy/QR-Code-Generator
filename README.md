@@ -46,11 +46,19 @@ Na aba "Guia", você encontrará exemplos de diferentes tipos de conteúdo que p
 
 ## Informações Adicionais
 
-## Autor
+### Demonstração em Vídeo
+
+Assista a um vídeo demonstrativo do programa no YouTube:
+
+[![Demonstração do Programa](https://img.youtube.com/vi/OGrucDV3FcI/0.jpg)](https://www.youtube.com/watch?v=OGrucDV3FcI)
+
+No vídeo, você verá o funcionamento do gerador de QR Code, como inserir conteúdo, gerar QR Codes e salvar os resultados.
+
+### Autor
 
 - [Kensdy](https://github.com/kensdy)
 
-## Licença
+### Licença
 
 Este projeto é distribuído sob a [Licença MIT](LICENSE).
 
