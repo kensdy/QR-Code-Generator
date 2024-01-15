@@ -54,6 +54,20 @@ Watch a video demonstration of the program on YouTube:
 
 In the video, you will see how the QR Code generator works, how to enter content, generate QR Codes, and save the results.
 
+### Screenshots
+
+#### Home Screen
+
+![Home Screen](home.png)
+
+The home screen allows you to input the desired content for the QR Code and generate it easily.
+
+#### Example Guide
+
+![Example Guide](guide.png)
+
+In the guide, you will find examples of different types of content that can be used to generate QR Codes.
+
 ### Author
 
 - [Kensdy](https://github.com/kensdy)
