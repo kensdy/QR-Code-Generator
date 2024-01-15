@@ -1,67 +1,63 @@
 # QR-Code-Generator
 
-[English](README.md) | Português
+English | [Português](README_pt.md)
 
-Este é um simples gerador de QR Code com interface gráfica, desenvolvido em Python utilizando a biblioteca Tkinter. Ele permite que você crie facilmente códigos QR para diferentes finalidades, como links, textos simples, informações de Wi-Fi, coordenadas GPS e muito mais.
+This is a simple QR Code generator with a graphical interface, developed in Python using the Tkinter library. It allows you to easily create QR codes for various purposes, such as links, plain text, Wi-Fi information, GPS coordinates, and more.
 
-[![Repository Views](https://komarev.com/ghpvc/?username=kensdyqr&label=Views&color=brightgreen)]([https://github.com/kensdy/OSINT-Steam](https://github.com/kensdy/QR-Code-Generator))
+[![Repository Views](https://komarev.com/ghpvc/?username=kensdyqr&label=Views&color=brightgreen)](https://github.com/kensdy/QR-Code-Generator)
 
-## Como Instalar
+## How to Install
 
-1. Clone o repositório:
+1. Clone the repository:
 
     ```bash
     git clone https://github.com/kensdy/QR-Code-Generator.git
     ```
 
-2. Navegue para o diretório do projeto:
+2. Navigate to the project directory:
 
     ```bash
     cd QR-Code-Generator
     ```
 
-3. Instale as dependências usando o `pip`:
+3. Install dependencies using `pip`:
 
     ```bash
     pip install -r requirements.txt
     ```
     
-4. Execute o script principal:
+4. Run the main script:
 
     ```bash
     python main.py
     ```
 
-## Como Usar
+## How to Use
 
-1. Execute o script Python `main.py`.
-2. A interface gráfica será exibida com três abas: "Inicio", "Guia" e "Informações".
-3. Na aba "Inicio", insira o conteúdo desejado para o QR Code (link, texto, etc.).
-4. Clique no botão "Gerar QR Code" para criar o QR Code.
-5. Utilize o botão "Salvar Como" para escolher o local e o nome do arquivo para salvar o QR Code em formato PNG.
+1. Run the Python script `main.py`.
+2. The graphical interface will be displayed with three tabs: "Home," "Guide," and "Additional Information."
+3. In the "Home" tab, enter the desired content for the QR Code (link, text, etc.).
+4. Click the "Generate QR Code" button to create the QR Code.
+5. Use the "Save As" button to choose the location and name of the file to save the QR Code in PNG format.
 
-## Exemplos de Conteúdo para QR Code
+## Examples of QR Code Content
 
-Na aba "Guia", você encontrará exemplos de diferentes tipos de conteúdo que podem ser utilizados para gerar QR Codes, como links, textos simples, informações de Wi-Fi, coordenadas GPS, mensagens de texto (SMS), e-mails, números de telefone, endereços Bitcoin, anotações de texto e conexão a uma rede Bluetooth.
+In the "Guide" tab, you will find examples of different types of content that can be used to generate QR Codes, such as links, plain text, Wi-Fi information, GPS coordinates, text messages (SMS), emails, phone numbers, Bitcoin addresses, text annotations, and connection to a Bluetooth network.
 
-## Informações Adicionais
+## Additional Information
 
-### Demonstração em Vídeo
+### Video Demonstration
 
-Assista a um vídeo demonstrativo do programa no YouTube:
+Watch a video demonstration of the program on YouTube:
 
-[![Demonstração do Programa](https://img.youtube.com/vi/OGrucDV3FcI/0.jpg)](https://www.youtube.com/watch?v=OGrucDV3FcI)
+[![Program Demonstration](https://img.youtube.com/vi/OGrucDV3FcI/0.jpg)](https://www.youtube.com/watch?v=OGrucDV3FcI)
 
-No vídeo, você verá o funcionamento do gerador de QR Code, como inserir conteúdo, gerar QR Codes e salvar os resultados.
+In the video, you will see how the QR Code generator works, how to enter content, generate QR Codes, and save the results.
 
-### Autor
+### Author
 
 - [Kensdy](https://github.com/kensdy)
 
-### Licença
+### License
 
-Este projeto é distribuído sob a [Licença MIT](LICENSE).
-
----
-
-**Observação:** Certifique-se de substituir o link do autor e a imagem de exemplo com informações reais e apropriadas para o seu projeto. Além disso, inclua uma seção de "Licença" e um arquivo `LICENSE` correspondente se você optar por usar uma licença específica.
+This project is distributed under the [MIT License](LICENSE).
